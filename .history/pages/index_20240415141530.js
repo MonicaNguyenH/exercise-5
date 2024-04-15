@@ -2,7 +2,6 @@
 import styles from "@/styles/Home.module.css";
 import VerticalBar from "@/components/VerticalBar";
 import HorizontalChart from "@/components/HorizontalChart";
-import PieChart from "@/components/PieChart ";
 
 
 export default function Home() {
@@ -11,7 +10,6 @@ export default function Home() {
       <main className={`${styles.main}`}>
         <VerticalBar />
         <HorizontalChart/>
-        <PieChart/>
       </main>
     </>
   );

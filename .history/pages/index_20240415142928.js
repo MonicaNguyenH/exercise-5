@@ -11,7 +11,7 @@ export default function Home() {
       <main className={`${styles.main}`}>
         <VerticalBar />
         <HorizontalChart/>
-        <PieChart/>
+        <Pie/>
       </main>
     </>
   );
