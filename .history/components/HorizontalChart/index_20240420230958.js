@@ -90,7 +90,7 @@ export default function HorizontalChart(){
     return(
         <>
             <div>
-                <Bar data={chartData} options={chartOptions} style={{ width: "900px", height: "500px"}}/>
+                <Bar data={chartData} options={chartOptions} style={{ width: "800px", height: "500px"}}/>
             </div>
         </>
     )

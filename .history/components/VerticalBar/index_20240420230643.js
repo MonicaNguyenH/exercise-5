@@ -63,10 +63,10 @@ export default function VerticalBar(){
                     },
                     y: {
                         grid: {
-                            color: 'rgba(255, 50, 255, 0.2)'
+                            color: 'rgba(255, 255, 255, 0.2)'
                         },
                         ticks: {
-                            color: 'red'
+                            color: '#FFFFFC'
                         }
                     }
                 }
